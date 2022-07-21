@@ -1,3 +1,3 @@
-# ** Cognizance-Open_Source **
+# ** Cognizance-Open_Source**
 
-## ** Tasks done in Cognizance - Open Source **
+## ** Tasks done in Cognizance - Open Source**
